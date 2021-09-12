@@ -3,6 +3,7 @@ You will need the following tools:
 
 - Visual Studio 2019 or 2022
 - .Net 6
+- C# 10.0
 
 ## Steps to Run the project
 - clone this repository
