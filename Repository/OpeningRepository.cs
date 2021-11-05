@@ -1,5 +1,7 @@
 ﻿
 using DayofWeekTest.Entities;
+using System;
+using System.Collections.Generic;
 
 namespace DayofWeekTest.Repository;
 public class OpeningRepository:IOpeningRepository

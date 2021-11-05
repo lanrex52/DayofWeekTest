@@ -1,4 +1,6 @@
 ﻿
+using System.Collections.Generic;
+
 namespace DayofWeekTest.Entities;
 public class DaysOfTheWeek
 {
